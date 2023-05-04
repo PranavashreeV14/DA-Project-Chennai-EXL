@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td>Name</td>
-    <td>PRANAVASHREE G</td>
+    <td>PRANAVASHREE</td>
   </tr>
   <tr>
     <td>Enrollment No</td>
