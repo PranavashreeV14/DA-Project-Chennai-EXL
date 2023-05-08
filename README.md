@@ -37,7 +37,7 @@
 - Hyperparameter Tuning
 - Conclusion
 
-##About the Dataset
+## About the Dataset
 
 dataset is taken from the Kaggle website. The dataset includes prices for various airlines and cities between March and June of 2019, with a training set of 10,683 records and a test set of 2,671 records. The prediction results can be beneficial for both travelers, who can use it to make informed decisions about their travel, and for airlines, who can use it to forecast competitors' rates and adjust their pricing strategies to maximize revenue while remaining competitive.
 
