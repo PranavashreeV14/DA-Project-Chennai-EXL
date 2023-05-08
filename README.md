@@ -49,6 +49,6 @@ dataset is taken from the Kaggle website. The dataset includes prices for variou
 
 I have used here Linear Regreesion, KNeighborsRegressor, DecisionTreeRegressor,and RandomForestRegressor algorithm for prediction, we come to know that Random Forest classifier is more accurate among other algorithm,have used a random forest model for this data with improved accuracy by doing hyperparameter tuning. As a result, we were able to successfully train our regression model, the ‘Random forest model,’ to forecast fares of flight tickets with an R2 score of 84 percent and complete the required work.
 
-## Future Scope
+## Future Work
 - we try with different machine learning Algorithms
 - We can deploy the model using Flask,Heroku,django etc
