@@ -18,7 +18,7 @@
   </tr>
  </table>
 
-# Fight Price Prediction
+# Fight Fare Prediction
 ## Introduction
   The Flight ticket prices increase or decrease every now and then depending on various factors like timing of the flights, destination, duration of flights. In the proposed system a predictive model will be created by applying machine learning algorithms to the collected historical data of flights. Optimal timing for airline ticket purchasing from the consumer’s perspective is challenging principally because buyers have insufficient information for reasoning about future price movements.
 
