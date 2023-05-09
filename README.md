@@ -41,8 +41,8 @@
 
 dataset is taken from the Kaggle website. The dataset includes prices for various airlines and cities between March and June of 2019, with a training set of 10,683 records and a test set of 2,671 records. The prediction results can be beneficial for both travelers, who can use it to make informed decisions about their travel, and for airlines, who can use it to forecast competitors' rates and adjust their pricing strategies to maximize revenue while remaining competitive.
 
-- Size of training set: 10683 records
-- Size of test set: 2671 records
+- Size of training set: 10683 records 11 columns
+- Size of test set: 2671 records 10 columns
 - Link of the dataset:- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
 ### Conclusion
